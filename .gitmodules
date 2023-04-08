@@ -1,0 +1,6 @@
+[submodule "src/spring"]
+	path = src/spring
+	url = https://github.com/bhristt/Spring-Module
+[submodule "spring"]
+	path = spring
+	url = https://github.com/bhristt/Spring-Module
