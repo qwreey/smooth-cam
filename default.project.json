@@ -1,11 +1,9 @@
 {
 	"name":"SmoothCam",
 	"tree": {
-		"SmoothCam": {
-			"$path": "src",
-			"spring": {
-				"$path": "spring"
-			}
+		"$path": "src",
+		"spring": {
+			"$path": "spring"
 		}
 	}
 }
