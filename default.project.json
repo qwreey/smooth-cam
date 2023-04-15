@@ -1,15 +1,10 @@
-
 {
-	"name":"smoothCam",
+	"name":"SmoothCam",
 	"tree": {
-		"$className": "DataModel",
-		"ReplicatedFirst": {
-			"$className": "ReplicatedFirst",
-			"SmoothCam": {
-				"$path": "src",
-				"spring": {
-					"$path": "spring"
-				}
+		"SmoothCam": {
+			"$path": "src",
+			"spring": {
+				"$path": "spring"
 			}
 		}
 	}

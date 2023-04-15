@@ -1,0 +1,15 @@
+{
+	"name":"smoothCam",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedFirst": {
+			"$className": "ReplicatedFirst",
+			"SmoothCam": {
+				"$path": "src",
+				"spring": {
+					"$path": "spring"
+				}
+			}
+		}
+	}
+}
